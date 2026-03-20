@@ -216,7 +216,6 @@ MIT License
 # 🙌 Acknowledgements
 
 * OpenAI
-
 * Streamlit
 
 ---
